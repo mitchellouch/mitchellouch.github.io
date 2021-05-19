@@ -4,11 +4,24 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Mitchell Oucharek. I am a recent graduate of the Software Development program at SAIT, where I focused my studies on full-stack JavaScript development. 
+Hello, my name is Mitchell Oucharek. I am a recent graduate of the Software Development program at SAIT, where I focused my studies on full-stack JavaScript development, web application design, and cloud technologies. I am a resourceful professional with a background in project management, logistics, and business consulting.
 
-### More Information
+### Skills
 
-I've done quite a few things - keep an eye out for projects I'm working on in the Blog section of the site. The first two were for my independent study on Node.js this semester, but I'm hoping to add a few more. 
+- Full-stack JavaScript/jQuery web application programming, Node.js/Express environment
+- Front-end web programming; HTML5, CSS3, Bootstrap5, EJS, Pug, Mustache
+- SQL/Relational database administration, Java application SQL integration; mySQL, SQLPlus, SQLite, MariaDB
+- NoSQL/Non-relational database structure, MongoDB/mongoose integration, MongoDB Atlas cloud-based database administration
+- Object-Oriented Java programming, Java Servlet web applications, Swing GUI applications, jUnit testing
+- Content Management Systems, website design platforms; WordPress, Wix, Square Space, GoDaddy, Shopify
+- UX/UI design tools; Adobe XD, GIMP, prototyping & wireframe creation
+- GitHub repository administration, version control, remote collaboration
+- Cloud deployment strategies; AWS Elastic Beanstalk, AWS CodePipeline, Heroku
+- Linux CLI/GUI proficiency; CentOS, Ubuntu, Kali, Raspbian
+- Digital Marketing, SEO, content creation, social media management
+- Secure software development practices; Java, Java Servlet web applications, C
+- Working knowledge of JavaScript frameworks; jQuery, React, Angular
+- Basic mobile development knowledge; React Native, Flutter/Dart, Ionic
 
 ### Contact me
 
